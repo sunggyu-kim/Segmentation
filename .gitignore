@@ -1,0 +1,30 @@
+# Python 가상환경
+.venv/
+venv/
+env/
+
+# Python 캐시 파일
+__pycache__/
+*.py[cod]
+*.so
+
+# Jupyter 노트북 체크포인트
+.ipynb_checkpoints/
+
+# VSCode 설정
+.vscode/
+
+# MacOS
+.DS_Store
+
+# 로그 파일
+*.log
+
+# 모델 체크포인트나 데이터 (원하면)
+*.pth
+*.pt
+*.h5
+
+# data/PennFud
+data/
+data
